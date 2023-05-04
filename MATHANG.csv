@@ -1,4 +1,4 @@
-MaMH,TenMH,MaNCC,DonGia,TinhTrang,
+MaMH,TenMH,MaNCC,DonGia,TinhTrang,merge
 1,Chai,1,18,0,"insert into MATHANG values (1, 'Chai', 1, 18, 0);"
 2,Chang,1,19,0,"insert into MATHANG values (2, 'Chang', 1, 19, 0);"
 3,Aniseed Syrup,1,10,0,"insert into MATHANG values (3, 'Aniseed Syrup', 1, 10, 0);"
@@ -20,7 +20,7 @@ MaMH,TenMH,MaNCC,DonGia,TinhTrang,
 19,Teatime Chocolate Biscuits,8,9.2,0,"insert into MATHANG values (19, 'Teatime Chocolate Biscuits', 8, 9.2, 0);"
 20,Sir Rodney's Marmalade,8,81,0,"insert into MATHANG values (20, 'Sir Rodney's Marmalade', 8, 81, 0);"
 21,Sir Rodney's Scones,8,10,0,"insert into MATHANG values (21, 'Sir Rodney's Scones', 8, 10, 0);"
-22,Gustaf's Knackebröd,9,21,0,"insert into MATHANG values (22, 'Gustaf's Knackebröd', 9, 21, 0);"
+22,Gustaf's KnackebrÃ¶d,9,21,0,"insert into MATHANG values (22, 'Gustaf's KnackebrÃ¶d', 9, 21, 0);"
 23,Tunnbrod,9,9,0,"insert into MATHANG values (23, 'Tunnbrod', 9, 9, 0);"
 24,Guarana Fantastica,10,4.5,1,"insert into MATHANG values (24, 'Guarana Fantastica', 10, 4.5, 1);"
 25,NuNuCa Nub-Nougat-Creme,11,14,0,"insert into MATHANG values (25, 'NuNuCa Nub-Nougat-Creme', 11, 14, 0);"
@@ -53,7 +53,7 @@ MaMH,TenMH,MaNCC,DonGia,TinhTrang,
 52,Filo Mix,24,7,0,"insert into MATHANG values (52, 'Filo Mix', 24, 7, 0);"
 53,Perth Pasties,24,32.8,1,"insert into MATHANG values (53, 'Perth Pasties', 24, 32.8, 1);"
 54,Tourtiere,25,7.45,0,"insert into MATHANG values (54, 'Tourtiere', 25, 7.45, 0);"
-55,Pâté chinois,25,24,0,"insert into MATHANG values (55, 'Pâté chinois', 25, 24, 0);"
+55,PÃ¢tÃ© chinois,25,24,0,"insert into MATHANG values (55, 'PÃ¢tÃ© chinois', 25, 24, 0);"
 56,Gnocchi di nonna Alice,26,38,0,"insert into MATHANG values (56, 'Gnocchi di nonna Alice', 26, 38, 0);"
 57,Ravioli Angelo,26,19.5,0,"insert into MATHANG values (57, 'Ravioli Angelo', 26, 19.5, 0);"
 58,Escargots de Bourgogne,27,13.25,0,"insert into MATHANG values (58, 'Escargots de Bourgogne', 27, 13.25, 0);"
